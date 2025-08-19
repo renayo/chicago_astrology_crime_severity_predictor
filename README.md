@@ -1,5 +1,3 @@
-# Chicago astrology crime severity predictor
-
 # 🌟 Chicago Crime Severity Predictor
 ## Astrological Feature Analysis (2014-2024)
 

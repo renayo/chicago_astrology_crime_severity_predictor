@@ -1,6 +1,7 @@
 # Chicago Crime Severity Prediction - Version 9 Results
 ## Extended Dataset: 2001-2025 (25 Years)
 
+See [code](https://github.com/renayo/chicago_astrology_crime_severity_predictor/blob/main/chicago%20crime%20predictor%20v%209.py) specific to these results.
 ## Dataset Overview
 - **Total samples analyzed**: 215,731 hours (~24.6 years of hourly data)
 - **Features used**: 13 astrological variables

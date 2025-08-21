@@ -155,5 +155,5 @@ The 25-year dataset reveals that crime patterns follow both short-term (ascendan
 - Adjust for policy/demographic changes
 
 A casual diagram of how a random forest model could detect
-![astrological aspects](https://github.com/renayo/chicago_astrology_crime_severity_predictor/blob/chicago%20rf%20to%20astro%20figure_1.png?raw=true)
+![astrological aspects]([https://github.com/renayo/chicago_astrology_crime_severity_predictor/blob/chicago%20rf%20to%20astro%20figure_1.png?](https://github.com/renayo/chicago_astrology_crime_severity_predictor/blob/main/chicago%20rf%20to%20astro%20figure_1.png)raw=true)
 

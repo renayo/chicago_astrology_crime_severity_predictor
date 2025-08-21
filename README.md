@@ -131,8 +131,8 @@ From the v6 Python file analysis:
 
 | Version | Features | Method | R² | Status |
 |---------|----------|--------|-----|--------|
-| 12-feat (unknown) | 12 | Unknown | 0.1707 | Moderate |
-| 9-feat | 9 | Unknown | 0.1748 | Moderate |
+| 12-feat (unknown) | 12 | Average | 0.1707 | Moderate |
+| 9-feat | 9 | Average | 0.1748 | Moderate |
 | 7-feat (sum) | 7 | Total | 0.0623 | Failed |
 | 7-feat (mean) | 7 | Average | 0.0386 | Failed |
 | **12-feat (sum)** | **12** | **Total** | **0.6094** | **Success** |

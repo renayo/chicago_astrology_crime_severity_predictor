@@ -153,3 +153,6 @@ The 25-year dataset reveals that crime patterns follow both short-term (ascendan
 - Monitor for drift in feature importance
 - Validate predictions against actual crime rates
 - Adjust for policy/demographic changes
+
+Here is a casual diagram of how a random forest model could detect astrological aspects.
+

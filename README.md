@@ -1,4 +1,6 @@
 # Chicago Crime Severity Prediction Analysis
+
+See [https://github.com/renayo/chicago_astrology_crime_severity_predictor/blob/main/chicago%20crime%20predictor%20v%206.py](code).
 ## Using Total Hourly Severity (12 Features)
 
 ## Dataset Overview

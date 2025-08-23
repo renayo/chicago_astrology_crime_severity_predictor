@@ -2,6 +2,27 @@
 ## Extended Dataset: 2001-2025 (25 Years)
 
 See [code](https://github.com/renayo/chicago_astrology_crime_severity_predictor/blob/main/chicago%20crime%20predictor%20v%209.py) specific to these results.
+
+## Descriptive Statistics of Hourly Crime Severity
+
+| Statistic | Value |
+|-----------|--------|
+| **Mean** | 135.956 |
+| **Minimum** | 2.0 |
+| **Maximum** | 2,138.0 |
+| **Standard Deviation** | 72.4758 |
+
+<img width="480" height="285" alt="image" src="https://github.com/user-attachments/assets/fb9db938-de19-4065-a3cc-50c433140e25" />
+
+## Data Overview
+
+- **Central Tendency**: The mean value of 135.956 indicates the average SEV measurement
+- **Range**: Values span from a minimum of 2.0 to a maximum of 2,138.0
+- **Variability**: Standard deviation of 72.4758 suggests moderate spread around the mean
+- **Distribution Note**: The large difference between the maximum (2,138.0) and mean (135.956) suggests potential outliers or a right-skewed distribution
+
+---
+
 ## Dataset Overview
 - **Total samples analyzed**: 215,731 hours (~24.6 years of hourly data)
 - **Features used**: 13 astrological variables

@@ -167,7 +167,7 @@ For a similar, but as of yet incomplete, study on Chicago traffic accidents, see
 
 To distinguish astronomical correlations from pure temporal patterns, we conducted autoregressive time series analysis:
 
-**AR Process Parameters**: SARMAProcess[2.92977, {0.703483}, {-0.395038}, {12, {0.0859714, 0.899429, -0.0435137}, {-0.0590736, -0.791712}}, 1426.15] , AIC 1.56703*10^6, Error Variance 1426.15. (P-values for the parameters of best fit all are less than 0.002.)
+**[BEST FIT] AR Process Parameters**: SARMAProcess[2.92977, {0.703483}, {-0.395038}, {12, {0.0859714, 0.899429, -0.0435137}, {-0.0590736, -0.791712}}, 1426.15] , AIC 1.56703*10^6, Error Variance 1426.15. (P-values for the parameters of best fit all are less than 0.002.)
 
 **Residual Analysis**
 <img width="480" height="285" alt="image" src="https://github.com/user-attachments/assets/185d3aaa-8c37-4d6b-aae2-5313bfda6540" />

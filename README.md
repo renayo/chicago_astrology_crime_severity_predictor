@@ -159,3 +159,5 @@ A casual diagram of how a random forest model could detect astrological aspects:
 ![astrological aspects](https://raw.githubusercontent.com/renayo/chicago_astrology_crime_severity_predictor/refs/heads/main/chicago%20rf%20to%20astro%20figure_1.png)
 
 Remember: **discussion** is available at the top of this page. I look forward to hearing what you think of this project.
+
+For a similar, but as of yet incomplete, study on Chicago traffic accidents, see https://github.com/renayo/chicago-traffic-accidents-and-astronomy

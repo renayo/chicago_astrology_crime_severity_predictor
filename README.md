@@ -204,7 +204,7 @@ Relative to Data Scale:
 RF RMSE/Mean = 32.59/135.956 = 24% relative error
 SARIMA RMSE/Mean = 37.76/135.956 = 28% relative error
 
-** Additional Considerations **
+**Additional Considerations**
 The dataset characteristics (mean=135.956, std=72.4758, max=2138) suggest:
 
 Presence of outliers or right-skewed distribution (max >> mean)

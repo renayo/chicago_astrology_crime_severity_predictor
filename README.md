@@ -3,7 +3,7 @@
 
 See [code](https://github.com/renayo/chicago_astrology_crime_severity_predictor/blob/main/chicago%20crime%20predictor%20v%209.py) specific to these results.
 
-## Descriptive Statistics of Hourly Crime Severity
+## Descriptive Statistics of Hourly Total Crime Severity
 
 | Statistic | Value |
 |-----------|--------|

@@ -194,7 +194,7 @@ To distinguish astronomical correlations from pure temporal patterns, we conduct
 **Autocorrelation Function**
 <img width="480" height="275" alt="image" src="https://github.com/user-attachments/assets/0728eee8-187f-4323-ab8f-2272939f3e51" />
 
-** Verdict: Random Forest is the Better Performer **
+**Verdict: Random Forest is the Better Performer**
 The Random Forest model clearly outperforms the SARIMA model based on these metrics:
 
 Lower Error: RF RMSE (32.59) < SARIMA RMSE (37.76) - about 14% improvement

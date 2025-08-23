@@ -194,7 +194,24 @@ To distinguish astronomical correlations from pure temporal patterns, we conduct
 **Autocorrelation Function**
 <img width="480" height="275" alt="image" src="https://github.com/user-attachments/assets/0728eee8-187f-4323-ab8f-2272939f3e51" />
 
+** Verdict: Random Forest is the Better Performer **
+The Random Forest model clearly outperforms the SARIMA model based on these metrics:
 
+Lower Error: RF RMSE (32.59) < SARIMA RMSE (37.76) - about 14% improvement
+Better Predictive Power: RF explains 79% of variance while SARIMA's high error variance suggests poorer fit
+Relative to Data Scale:
+
+RF RMSE/Mean = 32.59/135.956 = 24% relative error
+SARIMA RMSE/Mean = 37.76/135.956 = 28% relative error
+
+** Additional Considerations **
+The dataset characteristics (mean=135.956, std=72.4758, max=2138) suggest:
+
+Presence of outliers or right-skewed distribution (max >> mean)
+Random Forest's robustness to outliers likely contributes to its superior performance
+SARIMA may be struggling with the non-stationarity or outliers in the time series
+
+The Random Forest's cross-validation stability (±8.63) also indicates it generalizes well, making it the more reliable choice for this dataset.
 
 ---
 

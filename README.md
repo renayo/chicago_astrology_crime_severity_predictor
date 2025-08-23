@@ -161,3 +161,18 @@ A casual diagram of how a random forest model could detect astrological aspects:
 Remember: **discussion** is available at the top of this page. I look forward to hearing what you think of this project.
 
 For a similar, but as of yet incomplete, study on Chicago traffic accidents, see https://github.com/renayo/chicago-traffic-accidents-and-astronomy
+
+---
+## Time Series Decomposition for Comparison
+
+To distinguish astronomical correlations from pure temporal patterns, we conducted autoregressive time series analysis:
+
+**AR Process Parameters**: ARProcess[17.0276, {0.988152, 0.0390293, 0.0466251, -0.193726}, 535.826], AIC 60971.2, Error Variance 535.826.
+
+**Residual Analysis**
+<img width="480" height="295" alt="Time series residuals" src="https://github.com/user-attachments/assets/582c2120-880b-466d-9c65-79521d11ce68" />
+
+**Autocorrelation Function**
+<img width="480" height="279" alt="ACF plot" src="https://github.com/user-attachments/assets/e9dffb6b-8959-4a16-93ed-c3bac75f5893" />
+
+---

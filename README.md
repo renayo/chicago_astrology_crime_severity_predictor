@@ -175,7 +175,9 @@ The 25-year dataset reveals that crime patterns follow both short-term (ascendan
 - Validate predictions against actual crime rates
 - Adjust for policy/demographic changes
 
-A casual diagram of how a random forest model could detect astrological aspects:
+Clestial longitude is the same as Tropical degree out of 360.
+
+The Random Forest would include interrelationships such as squares, trines, etc. between all astronomical features. The model need not have astrological angles predefined for flagging as true or false. Insteaad it can *derive* best angles. A casual diagram of how a random forest model could detect astrological aspects:
 
 ![astrological aspects](https://raw.githubusercontent.com/renayo/chicago_astrology_crime_severity_predictor/refs/heads/main/chicago%20rf%20to%20astro%20figure_1.png)
 

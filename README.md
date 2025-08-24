@@ -175,7 +175,7 @@ The 25-year dataset reveals that crime patterns follow both short-term (ascendan
 - Validate predictions against actual crime rates
 - Adjust for policy/demographic changes
 
-Clestial longitude is the same as Tropical degree out of 360.
+Celestial longitude is the same as Tropical degree out of 360.
 
 The Random Forest would include interrelationships such as squares, trines, etc. between all astronomical features. The model need not have astrological angles predefined for flagging as true or false. Insteaad it can *derive* best angles. A casual diagram of how a random forest model could detect astrological aspects:
 

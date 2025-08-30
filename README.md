@@ -181,7 +181,7 @@ The Random Forest would include interrelationships such as squares, trines, etc.
 
 ![astrological aspects](https://raw.githubusercontent.com/renayo/chicago_astrology_crime_severity_predictor/refs/heads/main/chicago%20rf%20to%20astro%20figure_1.png)
 
-To see specific astrological interrelationships, see this interactive display:  https://chi-astro-crime-severity.netlify.app/
+To see specific astrological interrelationships, refer to this interactive display:  https://chi-astro-crime-severity.netlify.app/
 
 ---
 ## Time Series Decomposition for Comparison
